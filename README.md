@@ -1,6 +1,6 @@
 # California Housing Price Prediction
 The purpose of this document is to specify the requirements for the project “California Housing Price Prediction.” Apart from specifying the functional and non-functional requirements for the project, it also serves as an input for project scoping.
-![alt text](https://www.pinterest.com/pin/322640760807210258/)
+![alt text](https://github.com/nikhil2020/California_Housing_price/blob/master/5b75a356e199f336008b528b.jpeg)
 
 # Problem Statement
 The purpose of the project is to predict median house values in Californian districts, given many features from these districts.
